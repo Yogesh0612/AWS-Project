@@ -1,6 +1,8 @@
 # AWS-Data-Architecture-Design
 I took on the challenge set to revolutionize the data architecture. Focused on creating a centralized, cloud-native system on AWS, the objective was to streamline data management, facilitate cross-team collaboration, and integrate predictive analytics to drive smarter investment decisions.
 
+Presentation: https://drive.google.com/file/d/1NpladcJcXkgrcbHc3Jq9S0f0dcR9iCKZ/view?usp=sharing
+
 My Approach:
 
 Decentralized Data Woes:
